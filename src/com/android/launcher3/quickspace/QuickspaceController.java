@@ -30,7 +30,7 @@ import android.service.notification.StatusBarNotification;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.android.internal.util.crdroid.OmniJawsClient;
+import com.android.internal.util.tenx.OmniJawsClient;
 
 import com.android.launcher3.R;
 import com.android.launcher3.Utilities;
